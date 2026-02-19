@@ -9,7 +9,7 @@
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 - [Overview](#overview)
 - [Dataset](#dataset)
 - [Project Structure](#project-structure)
@@ -157,8 +157,8 @@ Open `dashboard/co2_powerbi_dashboard.html` in any browser — no installation n
 ## Author
 
 **Priya** — Data Science Portfolio  
-📧 [your-email@gmail.com]  
-🔗 [github.com/tips27](https://github.com/tips27)
+📧 [tpriya27@gmail.com]  
+🔗 
 
 ---
 
