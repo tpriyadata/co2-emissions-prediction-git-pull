@@ -111,7 +111,7 @@ Vehicle category, transmission type, and fuel type contribute negligibly after c
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/tips27/co2-emissions-prediction
+git clone https://github.com/tpriyadata/co2-emissions-prediction
 cd co2-emissions-prediction
 ```
 
