@@ -127,9 +127,8 @@ jupyter notebook notebook/Fuel_Consumption_CO2_Analysis.ipynb
 
 **4. View the dashboard**
 
-Open `dashboard/co2_powerbi_dashboard.html` in any browser — no installation needed.
+Open `dashboard/co2_powerbi_dashboard.html` in any browser — no installation needed.(need to be updated)
 
-> **Note:** The notebook fetches live data from the Canada Open Data API on run. An internet connection is required for the data ingestion cell.
 
 ---
 
